@@ -1,6 +1,6 @@
 # D3-jira-board
 
-| Jira Task  | Second Header |
+| Jira Task  | Task Description |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
