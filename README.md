@@ -32,5 +32,7 @@ US: misc
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Get additional data  | acquire data for all sections  | 3  | Clint  | in prog  |
 | Add missing sections  | need clarification on which section numbers apply to some areas of map  | 3  | Clint  | in prog  |
+| Clean up section shapes  | edges are too jaggy  | 3  | Clint  | to do  |
+| Research APIs  | see if any of the public services will be good sources of data or section paths  | 2  | Hammad  | in progress  |
 | Display instructions  | Include text on right side/bottom of page  | 3  | --  | to do  |
 
