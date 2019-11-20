@@ -4,10 +4,10 @@ US: display population by section
 
 | Jira Task  | Task Description | Task Priority | Task Assigned To | Task Status | 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Change gradation to indicate # of markers  | Content Cell  | 1  | Content Cell  | Content Cell  |
-| Use all one color  | Content Cell  | 2  | Content Cell  | Content Cell  |
+| Change gradation to indicate # of markers  | Content Cell  | 1  | Clint  | Done  |
+| Use all one color  | Content Cell  | 2  | Clint  | Done  |
 | Outline sections  | Content Cell  | 2  | Content Cell  | Content Cell  |
-| Add labels to sections  | Content Cell  | 3  | Clint  | to do  |
+| Add labels to sections  | Content Cell  | 3  | Clint  | in progress  |
 | Detail popup  | show additional info when selecting a section  | 3  | Content Cell  | Content Cell  |
 
 US: display individual markers
